@@ -26,3 +26,6 @@ http://www.hp-stylelink.com/news/2013/08/20130827.php
 
 - js api fetch results 帰ってこない問題
 https://teratail.com/questions/135017
+
+- GitHubのmasterブランチをWebページとして公開する手順（GitHub Pages）
+https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096
